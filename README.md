@@ -2,7 +2,7 @@
 
 ## ec2-metadata
 
-Get instance metadata about your running instance. 
+Get metadata about your running instance. 
 
 Even works when ran inside a Docker container.
 
