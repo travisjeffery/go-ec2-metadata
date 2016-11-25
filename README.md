@@ -1,3 +1,5 @@
+![Travis CI](https://travis-ci.org/travisjeffery/ec2-metadata.svg?branch=master)
+
 ## ec2-metadata
 
 Get instance metadata about your running instance. 
